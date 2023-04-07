@@ -7,7 +7,7 @@ This project generates a changelog page for a project and adds it to an existing
 - Generate an HTML changelog page containing a list of changes.
 - Add the changelog to an existing HTML file that displays the daily changelog.
 - Retrieve the commit log for the project using the `subprocess` module and Git.
-- Automatically format the changelog based on the type of change (added, changed, or removed).
+- Automatically format the changelog based on the type of change (added, changed, or removed). - WIP
 
 ## Dependencies
 
